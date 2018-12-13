@@ -2,7 +2,7 @@ package pl.sda.zadanie2;
 
 public class Jedzenie {
 
-    TypJedzenia typJedzenia;
+    public TypJedzenia typJedzenia;
 
     public Jedzenie(TypJedzenia typJedzenia) {
         this.typJedzenia = typJedzenia;

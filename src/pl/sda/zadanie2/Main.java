@@ -14,10 +14,10 @@ public class Main {
         remek.dodajZwierze(kot);
 
         KontenerNaJedzenie lodowka = new KontenerNaJedzenie();
-        lodowka.dodaj(Jedzenie.TypJedzenia.CHLEB);
+   /*     lodowka.dodaj(Jedzenie.TypJedzenia.CHLEB);
         lodowka.dodaj(Jedzenie.TypJedzenia.ZOLTY_SER);
         lodowka.dodaj(Jedzenie.TypJedzenia.MLEKO);
-        lodowka.dodaj(Jedzenie.TypJedzenia.WODA);
+        lodowka.dodaj(Jedzenie.TypJedzenia.WODA);*/
 
         remek.dodajDoLodowki(Jedzenie.TypJedzenia.ZOLTY_SER);
         remek.dodajDoLodowki(Jedzenie.TypJedzenia.WODA);
